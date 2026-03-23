@@ -23,4 +23,4 @@ def print_array(arr):
 
 if __name__ == "__main__":
     data = read_array()
-    print("Array (modified by Liza):")
+    print("Array (modified by partner):")
